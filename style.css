@@ -23,4 +23,5 @@ display: flex;
     background-color: blueviolet;
     height: 20rem;
     flex-grow: 1;
+    flex-basis: calc(33%-6rem);
 }
